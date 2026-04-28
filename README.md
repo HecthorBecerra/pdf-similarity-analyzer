@@ -51,7 +51,6 @@ pdf-similarity-analyzer/
 ├── Dockerfile
 ├── docker-compose.yml
 ├── requirements.txt
-├── DEPLOY.md              # Guia de despliegue en la nube
 ├── .gitignore
 └── README.md
 ```
