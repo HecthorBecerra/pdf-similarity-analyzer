@@ -6,3 +6,4 @@ matplotlib
 matplotlib-venn
 streamlit>=1.32.0
 pandas
+torchvision
