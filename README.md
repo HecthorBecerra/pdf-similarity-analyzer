@@ -24,12 +24,9 @@ Analiza la similitud tematica entre documentos PDF usando extraccion de palabras
 
 ## Capturas de pantalla
 
-> _Agrega capturas de pantalla aqui despues del primer despliegue._
->
-> ```
-> ![Barra lateral](screenshots/sidebar.png)
-> ![Resultados](screenshots/results.png)
-> ```
+ **Captura de resultados para 2 pdfs** 
+
+![Resultados](Resultados.png)
 
 ---
 
