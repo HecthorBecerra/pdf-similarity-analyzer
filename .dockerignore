@@ -1,0 +1,6 @@
+__pycache__
+.git
+outputs/
+*.pyc
+.env
+notebooks/

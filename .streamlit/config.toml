@@ -1,0 +1,8 @@
+[server]
+maxUploadSize = 50  # permitir PDFs de hasta 50 MB
+
+[theme]
+base = "light"
+
+[browser]
+gatherUsageStats = false
