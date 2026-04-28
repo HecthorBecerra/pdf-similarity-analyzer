@@ -1,6 +1,6 @@
 # Analizador de Similitud de PDFs
 
-[![Abrir en Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-username-pdf-similarity-analyzer.streamlit.app)
+[![Abrir en Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pdf-similarity-analyzer-mebzf3rad58lsyjds5sqjh.streamlit.app/)
 
 Analiza la similitud tematica entre documentos PDF usando extraccion de palabras clave y similitud coseno de embeddings de sentence-transformer.
 
@@ -8,7 +8,7 @@ Analiza la similitud tematica entre documentos PDF usando extraccion de palabras
 
 ## 🚀 Demo en vivo
 
-> **[Lanzar la app en Streamlit Cloud →](https://your-username-pdf-similarity-analyzer.streamlit.app)**
+> **[Lanzar la app en Streamlit Cloud →](https://pdf-similarity-analyzer-mebzf3rad58lsyjds5sqjh.streamlit.app/)**
 
 
 ---
